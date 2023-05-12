@@ -1,4 +1,4 @@
-# whatsnews
+# What's News?
 
 "What's News?" is an innovative and engaging mobile app that combines popular swiping card features with the latest news articles. With a fun and quirky tone, reminiscent of the common-old question of "What's new?" but with a contemporary twist, the app allows users to stay up-to-date with the latest news of their choosing without feeling overwhelmed. The app's swiping card element and retrieval of news articles bring joy to users while improving their knowledge. With a user-friendly interface and new techniques incorporated, the app's appearance, functionality, and effects are personalized on a deeper level. "What's News?" is the perfect solution for anyone looking for an exciting and unique way to keep up with the latest news.
 
